@@ -3,10 +3,7 @@
 Sou estudante de Desenvolvimento Web Full Stack, em transição de carreira e ex-estudante de Física apaixonada por tecnologia, atualmente morando em Florianópolis/SC. Estou focada em expandir minhas habilidades para criar experiências web impactantes e funcionais.
 
 ## Habilidades e Tecnologias
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50">
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"><img src="https://cdn.jsdelivr.net/npm/devicon@2.14.0/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50">
 
 ## Projeto Conclusão de Curso: Front-end. 
 
